@@ -1,5 +1,5 @@
 {
   "version": "1.0.4",
   "build": 104,
-  "bin": "https://raw.githubusercontent.com/ahmedaaa8-bot/esp01-ota/main/firmware104.bin"
+  "bin": "https://raw.githubusercontent.com/ahmedaaa8-bot/esp01-weather/main/firmware104.bin"
 }
